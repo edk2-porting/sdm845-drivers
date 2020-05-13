@@ -1,0 +1,58 @@
+{
+  "config":
+  {
+    "hw_platform": ["CLS"],
+    "soc_id": ["321"]
+  },
+  "ltr578_0":{
+    "owner": "sns_ltr578",
+	".ambient":{
+      "owner": "sns_ltr578",
+      ".config":{
+        "owner": "sns_ltr578",
+        "is_dri":{ "type": "int", "ver": "0",
+          "data": "0"
+        },
+        "hw_id":{ "type": "int", "ver": "0",
+          "data": "0"
+        },
+        "res_idx":{ "type": "int", "ver": "0",
+          "data": "0"
+        },
+        "sync_stream":{ "type": "int", "ver": "0",
+          "data": "0"
+        }
+      }
+    },
+	".proximity":{
+      "owner": "sns_ltr578",
+      ".config":{
+        "owner": "sns_ltr578",
+        "is_dri":{ "type": "int", "ver": "0",
+          "data": "0"
+        },
+        "hw_id":{ "type": "int", "ver": "0",
+          "data": "0"
+        },
+        "res_idx":{ "type": "int", "ver": "0",
+          "data": "0"
+        },
+        "sync_stream":{ "type": "int", "ver": "0",
+          "data": "0"
+        }
+      }
+    },
+	".custom":{
+      "owner": "sns_ltr578",
+      ".config":{
+        "owner": "sns_ltr578",
+        "sample_rate_als":{ "type": "flt", "ver": "0",
+          "data": "5.0"
+        },        
+        "sample_rate_ps":{ "type": "flt", "ver": "0",
+          "data": "5.0"
+        }
+      }
+    }
+  }
+}

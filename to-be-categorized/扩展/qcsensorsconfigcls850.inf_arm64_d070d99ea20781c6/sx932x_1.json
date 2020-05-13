@@ -1,0 +1,28 @@
+{
+  "config":
+  {
+    "hw_platform": ["CLS"],
+    "soc_id": ["321"]
+  },
+  "sx932x_1":{
+    "owner": "sx932x",
+    ".sar":{
+      "owner": "sx932x",
+      ".config":{
+        "owner": "sx932x",
+        "is_dri":{ "type": "int", "ver": "0",
+          "data": "0"
+        },
+        "hw_id":{ "type": "int", "ver": "0",
+          "data": "1"
+        },
+        "res_idx":{ "type": "int", "ver": "0",
+          "data": "2"
+        },
+        "sync_stream":{ "type": "int", "ver": "0",
+          "data": "0"
+        }
+      }
+    }
+  }
+}
