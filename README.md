@@ -1,4 +1,4 @@
-# Driver For SDM845 Device ?Experimental?
+# Driver For SDM845 Device Experimental
 
 ## Introduction
   These drivers are extracted from some devices,We are still in the experimental stage to test it completely
