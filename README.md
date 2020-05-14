@@ -9,10 +9,10 @@
 
 2) Subsystems, Reset Notifier, Subsystem blobs, DSP,blobs need to be replaced by Android ones, maybe patch is needed
 
- 3) GPU, audio, Wi-Fi, LTE, maybe other things
+3) GPU, audio, Wi-Fi, LTE, maybe other things
 
- 4) Other things
+4) Other things
 
- 
+
 ## Credits
 Thanks to @imbushuo for guidance!
