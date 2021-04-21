@@ -3,7 +3,7 @@
 # 请普通用户*不要*使用这里的驱动，谢谢！
 
 ## Introduction
-  These drivers are extracted from some devices,We are still in the experimental stage to test it completely
+  These drivers are designed for SDM850 MTP/CLS reference platforms
 
 ## Driver order for reference
 
